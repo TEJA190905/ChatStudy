@@ -1,5 +1,5 @@
-# Develop by:INDRAJA.S
-# Reg No:212222043003
+# Develop by:RAJKIRAN.J
+# Reg No:212222043006
 
 # Ex. No:1b 			Study of Client Server Chat Applications
 
